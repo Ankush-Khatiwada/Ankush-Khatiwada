@@ -302,7 +302,7 @@ section .title::after {
 }
 .skills .skills-content .left a {
   display: inline-block;
-  background: rgb(202, 59, 59);
+  background: 0A66C2;
   color: #fff;
   font-size: 18px;
   font-weight: 500;
